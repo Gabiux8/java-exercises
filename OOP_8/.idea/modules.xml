@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP_8.iml" filepath="$PROJECT_DIR$/OOP_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1.2Circle/_1.2Circle.iml" filepath="$PROJECT_DIR$/_1.2Circle/_1.2Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1.3Rectangle/_1.3Rectangle.iml" filepath="$PROJECT_DIR$/_1.3Rectangle/_1.3Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1.4Employee/_1.4Employee.iml" filepath="$PROJECT_DIR$/_1.4Employee/_1.4Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1.5InvoiceItem/_1.5InvoiceItem.iml" filepath="$PROJECT_DIR$/_1.5InvoiceItem/_1.5InvoiceItem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1.6Account/_1.6Account.iml" filepath="$PROJECT_DIR$/_1.6Account/_1.6Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1.7Date/_1.7Date.iml" filepath="$PROJECT_DIR$/_1.7Date/_1.7Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1.8Time/_1.8Time.iml" filepath="$PROJECT_DIR$/_1.8Time/_1.8Time.iml" />
+    </modules>
+  </component>
+</project>
